@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[4n6]]></title>
+        <description><![CDATA[4n6]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Aug 2016 04:31:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The confluence of art and technology. That is forensicdesign. We are your digital production house when creative ideas must become reality. Employing techniques in HTML5 banners, motion graphics, video and photography to fuel the vision with images.</p>]]></description>
+            <link>undefinedthe-confluence-of-art-and-technology-that-is-forensicdesign/index.html</link>
+            <guid isPermaLink="false">c130e3e9-3997-40cf-8add-1b0326a1697f</guid>
+            <pubDate>Mon, 15 Aug 2016 04:31:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
