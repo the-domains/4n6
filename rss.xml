@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[4n6]]></title>
         <description><![CDATA[4n6]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/4n6/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 04:31:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 06:41:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/4n6/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c24f7aa1-f2f4-46af-b825-ca82e4d1c346.jpg">]]></description>
+            <link>https://thegrid.ai/4n6/this-was-a-really-fun-shoot-i-brought-out-the-fog-machine-/index.html</link>
+            <guid isPermaLink="false">e5c6a47d-efca-4e00-b47f-0d9b525bd9bd</guid>
+            <pubDate>Wed, 17 Aug 2016 06:41:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The confluence of art and technology. That is forensicdesign. We are your digital production house when creative ideas must become reality. Employing techniques in HTML5 banners, motion graphics, video and photography to fuel the vision with images.</p>]]></description>
-            <link>undefinedthe-confluence-of-art-and-technology-that-is-forensicdesign/index.html</link>
+            <link>https://thegrid.ai/4n6/the-confluence-of-art-and-technology-that-is-forensicdesign/index.html</link>
             <guid isPermaLink="false">c130e3e9-3997-40cf-8add-1b0326a1697f</guid>
             <pubDate>Mon, 15 Aug 2016 04:31:37 GMT</pubDate>
         </item>
