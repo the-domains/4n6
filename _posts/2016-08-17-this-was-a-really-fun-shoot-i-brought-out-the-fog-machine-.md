@@ -8,16 +8,16 @@ description: >-
   This was a really fun shoot. I brought out the fog machine - instant
   atmosphere. The samurai sword is a high frequency vibration sword that can cut
   through adamantium because it vibrates rapidly enough to split atoms.
-datePublished: '2016-08-17T06:41:07.582Z'
-dateModified: '2016-08-17T06:40:57.461Z'
+datePublished: '2016-08-17T06:53:09.486Z'
+dateModified: '2016-08-17T06:43:09.199Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-17-this-was-a-really-fun-shoot-i-brought-out-the-fog-machine-.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-17-this-was-a-really-fun-shoot-i-brought-out-the-fog-machine-.md
 url: this-was-a-really-fun-shoot-i-brought-out-the-fog-machine-/index.html
 _type: Article
 
