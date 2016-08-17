@@ -59,16 +59,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=hrIDtbfvdIo'
 title: Jennifer Titles - Electric Vapor
-datePublished: '2016-08-17T08:18:26.321Z'
-dateModified: '2016-08-17T08:16:55.666Z'
+datePublished: '2016-08-17T23:46:03.871Z'
+dateModified: '2016-08-17T23:46:03.467Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-17-jennifer-titles-electric-vapor.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: jennifer-titles-electric-vapor/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
