@@ -12,16 +12,16 @@ description: >-
   bring her son and his girlfriend down for photographs also. The more the
   merrier. This was a fantastic session. I got some really striking ones of her
   son Stevie. Move over James Dean.
-datePublished: '2016-08-17T06:59:56.869Z'
-dateModified: '2016-08-17T06:59:42.330Z'
+datePublished: '2016-08-17T23:46:30.180Z'
+dateModified: '2016-08-17T23:46:29.786Z'
 title: ''
 author: []
 via: {}
 authors: []
 publisher: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-17-serendipity-i-was-in-atlanta-for-a-high-school-reunion-i-w.md
+starred: false
 url: serendipity-i-was-in-atlanta-for-a-high-school-reunion-i-w/index.html
 _type: Article
 
