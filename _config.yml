@@ -28,6 +28,9 @@ navigation:
   - name: banners
     id: f2150840-4bdd-4c3e-8358-179a5f6bc6fd
     type: content
+  - name: video
+    id: 144a53ef-cd8b-47b8-bae2-65782b203e91
+    type: content
 favicon: null
 title: forensicDesign
 description: the confluence of art and technology
