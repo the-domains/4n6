@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: banners
+    id: f2150840-4bdd-4c3e-8358-179a5f6bc6fd
+    type: content
 favicon: null
 title: forensicDesign
 description: the confluence of art and technology
