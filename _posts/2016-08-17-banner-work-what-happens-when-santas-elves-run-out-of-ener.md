@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T19:00:25.758Z'
+datePublished: '2016-08-18T19:04:27.416Z'
 sourcePath: >-
   _posts/2016-08-17-banner-work-what-happens-when-santas-elves-run-out-of-ener.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T19:00:25.570Z'
+dateModified: '2016-08-18T19:04:26.946Z'
 title: banners in html5
 publisher: {}
 description: >-
@@ -40,11 +40,16 @@ The spicy bbq sandwich. Spicy enough to wake the dead. ampm. http://www.4n6.net/
 Sometimes you need a kiwi strawberry freeze as the perfect antidote against zombism. ampm - too much good stuff. http://www.4n6.net/banners/html5/ampm/strawberry/
 ![OWN IT.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95531b8e-94bd-4db2-8881-8f037e33a780.png)
 
-<article style=""><h1>INT_QBO_OwnIt_300x250_Bee</h1></article>
-
+Link: http://4n6.net/banners/html5/intuit/ownit/
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a21503a-efd0-4b83-8de2-396d258dc5c4.jpg)
 
 Client: Honda  
 Agency: RPA  
 Project: Accord, Memorial Day   
 Link: http://4n6.net/banners/html5/honda/lake/
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8a00e1a-bc81-4c40-bc06-2dc7bf60cc51.jpg)
+
+Client: Honda  
+Agency: RPA  
+Project: Civic, Hiding   
+Link: http://4n6.net/banners/html5/honda/civic\_hiding/
