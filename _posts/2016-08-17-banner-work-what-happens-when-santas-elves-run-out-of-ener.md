@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T07:12:24.121Z'
+datePublished: '2016-08-18T19:00:25.758Z'
 sourcePath: >-
   _posts/2016-08-17-banner-work-what-happens-when-santas-elves-run-out-of-ener.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T07:12:23.598Z'
+dateModified: '2016-08-18T19:00:25.570Z'
 title: banners in html5
 publisher: {}
 description: >-
@@ -34,9 +34,17 @@ What happens when Santa doesn't have enough to eat? Well he gets grumpy like the
 Banner work. Done for ampm. This pumpkin spice latte will do the trick if you have turned into a zombie. http://www.4n6.net/banners/html5/ampm/pumpkin/
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74908594-1c46-43e3-8787-33a2f540b85e.png)
 
-The spicy bbq sandwich. Spicy enough to wake the dead. ampm. http://www.4n6.net/banners/html5/ampm/bbq/ ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa2c7657-3377-41dc-b55f-55431f48af7c.png)
+The spicy bbq sandwich. Spicy enough to wake the dead. ampm. http://www.4n6.net/banners/html5/ampm/bbq/
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa2c7657-3377-41dc-b55f-55431f48af7c.png)
 
 Sometimes you need a kiwi strawberry freeze as the perfect antidote against zombism. ampm - too much good stuff. http://www.4n6.net/banners/html5/ampm/strawberry/
 ![OWN IT.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95531b8e-94bd-4db2-8881-8f037e33a780.png)
 
-http://www.4n6.net/banners/html5/intuit/ownit/
+<article style=""><h1>INT_QBO_OwnIt_300x250_Bee</h1></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a21503a-efd0-4b83-8de2-396d258dc5c4.jpg)
+
+Client: Honda  
+Agency: RPA  
+Project: Accord, Memorial Day   
+Link: http://4n6.net/banners/html5/honda/lake/
