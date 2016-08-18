@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: banner test
+    url: 'http://4n6.net/banners/html5/ampm/strawberry/'
+    type: external
   - name: banners
     id: f2150840-4bdd-4c3e-8358-179a5f6bc6fd
     type: content
@@ -34,9 +37,6 @@ navigation:
   - name: photography
     id: 5cf5bc22-1774-4e81-9228-50471ba5c639
     type: content
-  - name: banner test
-    url: 'http://4n6.net/banners/html5/ampm/strawberry/'
-    type: external
 favicon: null
 title: forensicDesign
 description: the confluence of art and technology
