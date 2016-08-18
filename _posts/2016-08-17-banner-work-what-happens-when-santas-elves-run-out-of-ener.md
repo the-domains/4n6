@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T19:11:43.593Z'
+datePublished: '2016-08-18T19:14:10.036Z'
 sourcePath: >-
   _posts/2016-08-17-banner-work-what-happens-when-santas-elves-run-out-of-ener.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T19:11:43.256Z'
+dateModified: '2016-08-18T19:14:09.893Z'
 title: banners in html5
 publisher: {}
 description: >-
@@ -55,4 +55,7 @@ Project: Civic, Hiding
 Link: http://4n6.net/banners/html5/honda/civic\_hiding/
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac4d9bd2-cf82-4ebb-a4ec-2ff59dea0926.jpg)
 
-    <!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>Accord Hybrid CMBS</title> <script src="https://code.createjs.com/easeljs-0.7.1.min.js"></script> <script src="https://code.createjs.com/tweenjs-0.5.1.min.js"></script> <script src="https://code.createjs.com/movieclip-0.7.1.min.js"></script> <script src="https://code.createjs.com/preloadjs-0.4.1.min.js"></script> <script type="text/javascript" charset="utf-8" >var clickTag = "https://www.google.com";</script> <script src="DISPLAY_HRM_GENERAL_MY17_ACCORDHYBRID_LAUNCH_MMC_STANDARDTECH_NONDCO_SHOP_HTML_DESKTOP_300x600_SENSING.js"></script> <script> var canvas, stage, exportRoot; function init() { 	canvas = document.getElementById("canvas"); 	images = images||{}; 	var loader = new createjs.LoadQueue(false); 	loader.addEventListener("fileload", handleFileLoad); 	loader.addEventListener("complete", handleComplete); 	loader.loadManifest(lib.properties.manifest); } function handleFileLoad(evt) { 	if (evt.item.type == "image") { images[evt.item.id] = evt.result; } } function handleComplete(evt) { 	exportRoot = new lib.DISPLAY_HRM_GENERAL_MY17_ACCORDHYBRID_LAUNCH_MMC_STANDARDTECH_NONDCO_SHOP_HTML_DESKTOP_300x600_SENSING_v1(); 	stage = new createjs.Stage(canvas); 	stage.addChild(exportRoot); 	stage.update(); 	stage.enableMouseOver(); 	createjs.Ticker.setFPS(lib.properties.fps); 	createjs.Ticker.addEventListener("tick", stage); } </script> </head> <body onload="init();" style="background-color:#D4D4D4; margin:0px"> 	<canvas id="canvas" width="300" height="600" style="background-color:#D4D4D4"></canvas> </body> </html>
+Client: Honda  
+Agency: RPA  
+Project: Accord Hybrid, Sensing  
+Link: http://4n6.net/banners/html5/honda/accord\_sensing/
