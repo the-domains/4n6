@@ -4,7 +4,7 @@
         <description><![CDATA[forensicDesign]]></description>
         <link>https://thegrid.ai/4n6/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 07:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 07:42:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/4n6/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/4n6/this-was-a-really-fun-shoot-i-brought-out-the-fog-machine-/index.html</link>
             <guid isPermaLink="false">e5c6a47d-efca-4e00-b47f-0d9b525bd9bd</guid>
             <pubDate>Wed, 17 Aug 2016 06:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8267a6b4-d40f-419d-8eaf-2754f1416881.jpg">]]></description>
-            <link>https://thegrid.ai/4n6/working-with-kimberlie-is-amazing-she-is-such-a-polished-mo/index.html</link>
-            <guid isPermaLink="false">d36482bb-63ca-4854-bfbc-0601ed69d7fd</guid>
-            <pubDate>Wed, 17 Aug 2016 06:52:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
