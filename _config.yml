@@ -34,9 +34,6 @@ navigation:
   - name: photography
     id: 5cf5bc22-1774-4e81-9228-50471ba5c639
     type: content
-  - name: special graphics
-    url: 'http://4n6.net/banners/html5/ampm/strawberry/'
-    type: external
 favicon: null
 title: forensicDesign
 description: the confluence of art and technology
