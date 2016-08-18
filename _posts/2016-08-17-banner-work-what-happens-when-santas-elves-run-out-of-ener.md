@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T19:14:10.036Z'
+datePublished: '2016-08-18T19:16:50.784Z'
 sourcePath: >-
   _posts/2016-08-17-banner-work-what-happens-when-santas-elves-run-out-of-ener.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T19:14:09.893Z'
+dateModified: '2016-08-18T19:16:50.553Z'
 title: banners in html5
 publisher: {}
 description: >-
@@ -32,7 +32,7 @@ What happens when Santa doesn't have enough to eat? Well he gets grumpy like the
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c6fe7a6-17ca-439f-9dba-0230ab9e36bd.png)
 
 Banner work. Done for ampm. This pumpkin spice latte will do the trick if you have turned into a zombie. http://www.4n6.net/banners/html5/ampm/pumpkin/
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74908594-1c46-43e3-8787-33a2f540b85e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25d9247b-c9bf-4260-bb09-7611be5a229c.jpg)
 
 The spicy bbq sandwich. Spicy enough to wake the dead. ampm. http://www.4n6.net/banners/html5/ampm/bbq/
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa2c7657-3377-41dc-b55f-55431f48af7c.png)
