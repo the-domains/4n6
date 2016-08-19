@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-19T21:32:04.211Z'
+datePublished: '2016-08-19T21:36:49.753Z'
+sourcePath: _posts/2016-08-19-all-mine-music-video.md
 isBasedOnUrl: >-
   https://www.youtube.com/watch?v=QQWyjt8-dpw&list=PLAbWgUY4-4q5hEzP-m69AkdP9KJ0NtFIJ
 keywords:
@@ -19,7 +20,7 @@ author:
     url: 'https://www.youtube.com/channel/UCNP_wQh3Cx5qdp6qy2JA3aQ'
     avatar: {}
 via: {}
-dateModified: '2016-08-19T21:31:53.874Z'
+dateModified: '2016-08-19T21:36:49.191Z'
 title: All Mine - Music Video
 app_links:
   - url: >-
@@ -66,11 +67,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+publisher: {}
 description: >-
   This is a music video that we did the effects for. I came up with the concept
   of a lyrical video and animating the text in sync with the music. All of the
@@ -78,7 +75,6 @@ description: >-
   dynamic project to work on.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-19-all-mine-music-video.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -88,7 +84,7 @@ _type: VideoObject
 ---
 # All Mine - Music Video
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLAbWgUY4-4q5hEzP-m69AkdP9KJ0NtFIJ&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQQWyjt8-dpw&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQQWyjt8-dpw%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
 This is a music video that we did the effects for. I came up with the concept of a lyrical video and animating the text in sync with the music. All of the timelapse video was shot by us as well to fit the theme of the song. A very dynamic project to work on.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13138dca-f98d-4d21-9464-6c07f882c43f.png)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLAbWgUY4-4q5hEzP-m69AkdP9KJ0NtFIJ&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQQWyjt8-dpw&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQQWyjt8-dpw%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
