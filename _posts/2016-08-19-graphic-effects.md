@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-19T17:10:57.771Z'
+sourcePath: _posts/2016-08-19-graphic-effects.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-19T17:10:57.177Z'
+title: Graphic Effects
+publisher: {}
 description: >-
   This is different from graphic design. We can take your images and apply
   explosive graphics to them to give you one of a kind look. Do you see anything
   amazing here?
-dateModified: '2016-08-19T08:04:00.796Z'
-datePublished: '2016-08-19T08:04:01.314Z'
-title: Graphic Effects
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-19-graphic-effects.md
-hasPage: true
 starred: false
 url: graphic-effects/index.html
 _type: Blurb
@@ -19,13 +19,13 @@ _type: Blurb
 # Graphic Effects
 
 This is different from graphic design. We can take your images and apply explosive graphics to them to give you one of a kind look. Do you see anything amazing here?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf815639-6ead-43a6-8393-3324e068f2dc.jpg)
+![Fragmented](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf815639-6ead-43a6-8393-3324e068f2dc.jpg)
 
 FX: Fragmented
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c9e00a-fe85-4e30-8589-e24550d70d04.jpg)
+![The Grid](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c9e00a-fe85-4e30-8589-e24550d70d04.jpg)
 
 FX: The Grid
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30a8bdf0-9b7d-4e13-ab92-b38815e2ff45.jpg)
+![Smoke](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30a8bdf0-9b7d-4e13-ab92-b38815e2ff45.jpg)
 
 FX: Smoke
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1eb10bb1-5f13-4dfb-a332-33a487e3505f.jpg)
