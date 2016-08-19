@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T22:14:44.266Z'
+datePublished: '2016-08-19T17:03:57.354Z'
 sourcePath: >-
   _posts/2016-08-17-banner-work-what-happens-when-santas-elves-run-out-of-ener.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T22:14:43.878Z'
+dateModified: '2016-08-19T17:03:57.000Z'
 title: banners in html5
 publisher: {}
 description: >-
