@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-19T17:10:57.771Z'
+datePublished: '2016-08-19T17:14:01.458Z'
 sourcePath: _posts/2016-08-19-graphic-effects.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T17:10:57.177Z'
+dateModified: '2016-08-19T17:14:00.783Z'
 title: Graphic Effects
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ _type: Blurb
 # Graphic Effects
 
 This is different from graphic design. We can take your images and apply explosive graphics to them to give you one of a kind look. Do you see anything amazing here?
-![Fragmented](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf815639-6ead-43a6-8393-3324e068f2dc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf815639-6ead-43a6-8393-3324e068f2dc.jpg)
 
 FX: Fragmented
 ![The Grid](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c9e00a-fe85-4e30-8589-e24550d70d04.jpg)
