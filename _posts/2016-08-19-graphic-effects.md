@@ -3,18 +3,17 @@ description: >-
   This is different from graphic design. We can take your images and apply
   explosive graphics to them to give you one of a kind look. Do you see anything
   amazing here?
-dateModified: '2016-08-19T08:00:56.318Z'
-datePublished: '2016-08-19T08:01:05.496Z'
+dateModified: '2016-08-19T08:04:00.796Z'
+datePublished: '2016-08-19T08:04:01.314Z'
 title: Graphic Effects
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-graphic-effects.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: graphic-effects/index.html
+_type: Blurb
 
 ---
 # Graphic Effects
