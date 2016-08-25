@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T07:36:43.381Z'
+datePublished: '2016-08-25T19:33:45.761Z'
 sourcePath: >-
   _posts/2016-08-17-serendipity-i-was-in-atlanta-for-a-high-school-reunion-i-w.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T07:36:42.605Z'
+dateModified: '2016-08-25T19:33:45.297Z'
 title: ''
 publisher: {}
 description: >-
