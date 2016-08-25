@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-19T17:14:01.458Z'
+datePublished: '2016-08-25T19:33:03.688Z'
 sourcePath: _posts/2016-08-19-graphic-effects.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T17:14:00.783Z'
+dateModified: '2016-08-25T19:33:03.027Z'
 title: Graphic Effects
 publisher: {}
 description: >-
